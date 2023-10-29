@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Playprime.exe.config
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Playprime.exe
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Playprime.pdb
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.Form1.resources
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.Properties.Resources.resources
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.CopyComplete
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.exe
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.pdb
