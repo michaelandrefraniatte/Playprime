@@ -9,6 +9,12 @@ C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Pl
 C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.Properties.Resources.resources
 C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.CopyComplete
 C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.exe
 C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.pdb
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\Playprime\Src\Playprime\Playprime\obj\Release\Playprime.csproj.Up2Date
